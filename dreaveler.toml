@@ -1,0 +1,10 @@
+[about]
+name = "dreaveler"
+avatar = "https://dreaveler.github.io/images/dreaveler.png"
+hobbies = ["sleep play games"]
+skills = ["coding"]
+
+[social]
+github = "dreaveler"
+website = "dreaveler.github.io"
+
