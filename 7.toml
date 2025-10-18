@@ -1,0 +1,11 @@
+[about]
+name = "耄耋"
+avatar = "https://imgs.qiubiaoqing.com/qiubiaoqing/imgs/681a46ece1cd1qft.jpeg"
+hobbies = ["🐱 HA", "🐧 LaoWu", "🥘 HA"]
+skills = ["Linux", "Golang", "Rust", "TypeScript"]
+
+[social]
+github = ""
+website = ""
+
+
